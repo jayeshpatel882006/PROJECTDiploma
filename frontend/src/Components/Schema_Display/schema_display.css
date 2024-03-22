@@ -1,0 +1,25 @@
+.Schema_Wraper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: normal;
+    justify-content:  space-around;
+    /* background-color: black; */
+    gap: 20px 10px;
+    margin-top: 20px;
+    width: 100%; 
+ }
+ .Schema{
+    height: auto;
+    width: auto;
+ }
+ .txt {
+    margin-top: 40px;
+    padding-left: 20px;
+ }
+ .SDcontainer {
+    width: 90%;
+    background-color: #9EC8B9;
+    border-radius: 15px;
+ }
+
